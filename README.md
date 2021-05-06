@@ -1,17 +1,9 @@
-### Hi there 👋
+# Hello, I'm Mostafa. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**Malsham3/Malsham3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Web Developer based in Phoenix, AZ.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on personal projects.
-- 🌱 I’m currently learning React.js in depth.
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-**- 👯 I’m looking to collaborate on ... -->
+- 🎓 Recently graduated from University of Arizona with a certificate in Full Stack Web Development.
+- 👨🏻‍💻 Currently working my own projects,
+- 🌱 Learning & experimenting React.js in depth,
+- 🔭 Seeking an opportunity to expand my career in this line of work full-time
+- 📫 How to reach me: [Portfolio](https://mostafaalshammary.netlify.app) | [LinkedIn](https://www.linkedin.com/in/mostafa-alshammary) | [Email](m.alsham627@gmail.com) .
